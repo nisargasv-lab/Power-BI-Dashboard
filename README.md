@@ -65,8 +65,7 @@ The Drill Through page includes:
 
 Users can select a specific job title from the main dashboard and drill through to this detailed view.
 
-![Dashboard](Drill through.png)
-
+![Drill Through](Drill%20through.png)
 ---
 
 ## 🎯 Key Features
