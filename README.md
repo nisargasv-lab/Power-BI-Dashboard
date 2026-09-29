@@ -44,7 +44,7 @@ It includes:
 - Job title slicer
 - Drill Through button
 
-![Data Jobs Dashboard - Overview](Resources/images/Data_Jobs_Dashboard_Page1.png)
+![Dashboard](Dashboard.png)
 
 ---
 
@@ -65,7 +65,7 @@ The Drill Through page includes:
 
 Users can select a specific job title from the main dashboard and drill through to this detailed view.
 
-![Data Jobs Dashboard - Job Title Drill Through](Resources/images/Data_Jobs_Dashboard_Page2.png)
+![Dashboard](Drill through.png)
 
 ---
 
